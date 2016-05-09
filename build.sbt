@@ -5,6 +5,7 @@ version := "1.0"
 scalaVersion := "2.11.7"
 
 libraryDependencies += "io.spray" %% "spray-can" % "1.3.3"
+libraryDependencies += "io.spray" %% "spray-client" % "1.3.3"
 libraryDependencies += "io.spray" %% "spray-http" % "1.3.3"
 libraryDependencies += "io.spray" %% "spray-httpx" % "1.3.3"
 libraryDependencies += "io.spray" %% "spray-io" % "1.3.3"
